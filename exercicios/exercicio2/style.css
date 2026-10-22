@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cabecalho{
+    text-align: center;
+    justify-content: center;
+    background-color: steelblue;
+    color: white;
+    padding: 20px;
+}
+
+.item1{
+    margin: 10px;
+}
+
+.sobre{
+    margin: 25px 350px;
+    background-color: whitesmoke;
+    padding: 25px;
+}
+
+.tema{
+    color: #21488e;
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+
+.texto{
+    color: #444;
+    text-align: justify;
+}
+
+.galeria{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 10px;
+}
+
+.item-sobre1{
+    background-color: powderblue;
+    color: slateblue;
+    text-align: center;
+    padding: 60px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 1px 1px 1px 1px slategray;
+}
+
+.item-sobre2{
+    background-color: palegreen;
+    color: seagreen;
+    text-align: center;
+    padding: 60px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px slategray;
+    font-size: 30px;
+}
+
+.item-sobre3{
+    background-color: papayawhip;
+    color: peru;
+    text-align: center;
+    padding: 60px;
+    margin: 10px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 1px 1px 1px 1px slategray;
+}

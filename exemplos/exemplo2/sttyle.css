@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: seagreen;
+    color: white;
+    padding: 20px;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color: white;
+}
